@@ -1,6 +1,7 @@
 # * รายวิชาสถาปัตยกรรมคอมพิวเตอร์ *
 ### CLIP 1
 <br>[Click here](https://www.youtube.com/watch?v=4Xmycxsm4yo)
+*การเรียนหนังสือ*
 ### CLIP 2
 <br>[Click here](https://www.youtube.com/watch?v=0mXmTB-i86c&t=37s)
 ### CLIP 3
