@@ -3,7 +3,7 @@
 <br>[Click here](https://www.youtube.com/watch?v=4Xmycxsm4yo)
 <br>*การเรียนหนังสือ*
 <br>*ลองๆๆ*
-  ##(* m)
+  * m
 ![image](456789.jpg)
 ### CLIP 2
 <br>[Click here](https://www.youtube.com/watch?v=0mXmTB-i86c&t=37s)
