@@ -18,3 +18,4 @@
 ## CLIP 6
 <br>[Click here](https://www.youtube.com/watch?v=NIqQllKFryg&t=1s)
 ## CLIP 7
+<br>[Click here](https://www.youtube.com/watch?v=OmpTHug1bIA&t=2s)
