@@ -2,7 +2,7 @@
 ## CLIP 1
 <br>[Click here CLIP1](https://www.youtube.com/watch?v=4Xmycxsm4yo)
 <br>![image](Instruction-formats-for-MIPS-architecture-1.png)
-<br>คำสั่ง ADD ใน MIPS  จะอยู่ในคำสั่ง R-format จะประกอบด้วย 
+<br>*คำสั่ง ADD ใน MIPS  จะอยู่ในคำสั่ง R-format จะประกอบด้วย 
     <br>1.$rs(register rs) จะเก็บบิทขนาด 5 บิท
     <br>2.$rd(register rd) จะเก็บบิทขนาด 5 บิท
     <br>3.$rt(register rt) จะเก็บบิทขนาด 5 บิท
