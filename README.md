@@ -16,8 +16,7 @@
 <br>[Click here CLIP2](https://www.youtube.com/watch?v=0mXmTB-i86c&t=37s)
 
 <br>โดยทั่วไปคอมพิวเตอร์ จะสามารถทำงานเเละเข้าใจคำสั่งโดย ใช้ภาษา Machine Language โดยภาษาที่เรามนุษย์ เขียนจะเป็นภาษาชั้นสูงเช่น JAVA,PYTHON,C,C+,C++,C#
-![รูปmachin language](IMG_0829.jpg)
-<br>จากรูป เราใช้ถาษจาวา
+<br>จากรูป เราใช้ถาษาจาวา
 ```
 =====Java Language
 Class Test {
