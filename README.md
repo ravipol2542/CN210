@@ -1,7 +1,7 @@
 # * รายงานวิชาสถาปัตยกรรมคอมพิวเตอร์ *
 ## CLIP 1
 <br>[Click here CLIP1](https://www.youtube.com/watch?v=4Xmycxsm4yo)
-!{image](https://github.com/ravipol2542/CN210/blob/master/Instruction-formats-for-MIPS-architecture-1.png)
+![image](https://github.com/ravipol2542/CN210/blob/master/Instruction-formats-for-MIPS-architecture-1.png)
 ## CLIP 2
 <br>[Click here CLIP2](https://www.youtube.com/watch?v=0mXmTB-i86c&t=37s)
 ## CLIP 3
