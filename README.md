@@ -2,12 +2,12 @@
 ## CLIP 1
 <br>[Click here CLIP1](https://www.youtube.com/watch?v=4Xmycxsm4yo)
 <br>![image](Instruction-formats-for-MIPS-architecture-1.png)
-* คำสั่ง ADD ใน MIPS  จะอยู่ในคำสั่ง R-format จะประกอบด้วย 
- 1.$rs(register rs) จะเก็บบิทขนาด 5 บิท
- 2.$rd(register rd) จะเก็บบิทขนาด 5 บิท
- 3.$rt(register rt) จะเก็บบิทขนาด 5 บิท
+<br>คำสั่ง ADD ใน MIPS  จะอยู่ในคำสั่ง R-format จะประกอบด้วย 
+<br>1.$rs(register rs) จะเก็บบิทขนาด 5 บิท
+<br>2.$rd(register rd) จะเก็บบิทขนาด 5 บิท
+<br>3.$rt(register rt) จะเก็บบิทขนาด 5 บิท
  
- <br>![image](IMG_0826.jpg)
+ ![image](IMG_0826.jpg)
  <br>โดยคำสั่งใน MIPs จะเก็บด้วยตัวเลยจำนวน 32 บิท โดย 6 บิทเเรกจะเป็น 000000 คือ opcode ตามด้วย rs rt rd shamt(ขนาด 5 บิท) เเละ func ขนาด 6 บิท หลังจากนั้นเราจะเเปลงเป็นเลขฐาน 16 โดยการเเปลงทีละ 4 บิท
  
  
