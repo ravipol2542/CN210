@@ -25,7 +25,7 @@ Class Test {
       int a = 10 ;
       int b = 20 ;
       int c = a+b ;
-=====Machine Language in memory)
+=====Machine Language (in memory)
 00000000:      j 01000000
 00000004:      1A000000         //data
 ...
