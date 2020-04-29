@@ -110,7 +110,7 @@ Class Test {
 ## CLIP 5
 <br>[Click here CLIP5](https://www.youtube.com/watch?v=IW1H2A5DxqA&t=4s)
 
-<br>[immage](111111.jpg)
+<br>![immage](111111.jpg)
 
 ```
 ขั้นตอนของFSM ใน R-type
