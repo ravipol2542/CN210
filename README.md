@@ -119,10 +119,10 @@ Class Test {
 
 <br>![immage](111111.jpg)
 
-** ขั้นตอนของFSM ใน R-type ** 
-    <br>ขั้นตอนที่1 การเอาคำสั่งและPC+4 เมื่อMemRead=1 ,IorD=1 (คือ จากPC ไปยัง Memory address), IRWrite=1 (คือจาก Memory ไป Instruction register),         ALUSrcA=0(คือPC), ALUSrcB=1(คือ4), ALUOP= ADD(คิอ PC=PC+4), PCWrite=1 และ PCSource=1 (คือALU)
+**ขั้นตอนของFSM ใน R-type
+    <br>ขั้นตอนที่1 การเอาคำสั่งและPC+4 เมื่อMemRead=1 ,IorD=1 (คือ จากPC ไปยัง Memory address), IRWrite=1 (คือจาก Memory ไป Instruction                         register),ALUSrcA=0(คือPC), ALUSrcB=1(คือ4), ALUOP= ADD(คิอ PC=PC+4), PCWrite=1 และ PCSource=1 (คือALU)
     <br>ขั้นตอนที่2 การถอดรหัสคำสั่ง เมื่อ ALUSrcS=0 (คือ PC), ALUSrcB=3 (คือ signext(IR«2)), ALUOP=0 (คือ add)
-    <br>ขั้นตอนที่3 คำนวณในALU เมื่อ ALUSrcS=1 (คือ A=Register[$rs]), ALUSrcB=0 (คือ B=Register[$rt]), ALUOP=2 (คือInstruction register[28-26])
+    <br>ขั้นตอนที่3 คำนวณในALU เมื่อ ALUSrcS=1 (คือ A=Register[$rs]), ALUSrcB=0 (คือ B=Register[$rt]), ALUOP=2 (คือInstruction register[28-                     26])
     <br>ขั้นตอนที่4 เชียนข้อมูลลงรีจิสเตอร์ rd เมื่อ RegWrite=1 (คือ จากALUout ไปที่Register[$rd]), MemtoReg=0 (คือ ALUout), RegDst=1 (คือ rd)
 
 
