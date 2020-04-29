@@ -76,8 +76,7 @@ Class Test {
 ## CLIP 4
 <br>[Click here CLIP4](https://www.youtube.com/watch?v=WPbhgIni8XY&t=61s)
 
-## การทำงานของ LW ใน Multi cycle จะมีอยู่ด้วยกันทั้งหมด 5 cycle ดังนี้
-
+### การทำงานของ LW ใน Multi cycle จะมีอยู่ด้วยกันทั้งหมด 5 cycle ดังนี้
 ### T1
 ![immage](IMG_0830.JPG)
 ```
